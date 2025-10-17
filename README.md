@@ -22,15 +22,15 @@ Berikut adalah tampilan dari aplikasi EchoScribe saat digunakan.
 
 **1. Halaman Utama**
 *Tampilan awal yang modern dan informatif.*
-![Halaman Utama EchoScribe](./images/mainpage.jpg)
+![Halaman Utama EchoScribe](./images/mainpage.png)
 
 **2. Proses Unggah File**
 *Cukup seret dan lepas (drag-and-drop) file audio Anda. Proses transkripsi akan berjalan secara otomatis.*
-![Proses Unggah File Audio](./images/upload_page.jpg)
+![Proses Unggah File Audio](./images/upload_page.png)
 
 **3. Hasil Ringkasan AI**
 *Setelah diproses, Gemini akan langsung menyajikan ringkasan, poin keputusan, dan action items dari rapat Anda.*
-![Hasil Ringkasan AI oleh Gemini](./images/output_ringkasan.jpg)
+![Hasil Ringkasan AI oleh Gemini](./images/output_ringkasan.png)
 
 **4. Hasil Transkrip Lengkap per Pembicara**
 *Lihat transkrip lengkap yang sudah dipisahkan berdasarkan pembicara, lengkap dengan stempel waktu.*
