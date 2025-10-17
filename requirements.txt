@@ -1,0 +1,26 @@
+# Core Framework
+fastapi==0.119.0
+uvicorn[standard]==0.37.0
+python-multipart==0.0.20
+python-dotenv==1.1.1
+
+# AI/ML - Fixed versions to avoid conflicts
+openai-whisper==20231117
+torch==2.1.2
+torchaudio==2.1.2
+torchvision==0.16.2  # ← TAMBAHKAN INI (kompatibel dengan torch 2.1.2)
+pyannote.audio==3.1.1
+
+# Google Gemini
+google-generativeai==0.8.5
+
+# Audio Processing
+soundfile==0.13.1
+
+# Supporting Libraries
+numpy==1.26.4
+scipy==1.15.3
+scikit-learn==1.7.2
+pandas==2.3.3
+tqdm==4.67.1
+requests==2.32.5
